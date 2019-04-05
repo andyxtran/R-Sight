@@ -1,0 +1,7 @@
+// "users": andy
+// "personId": "73414c00-68fa-4718-93d8-01a5747aee4a"
+"persistedFaceId": "1db0baac-cc18-461c-b3ba-a7734db2d5b1"
+
+// test photos (faceID)
+// "717b022d-d406-454a-9228-8bc742f1e23c"
+//glasses f6da52c2-d701-491f-aaef-2e3005ae912a

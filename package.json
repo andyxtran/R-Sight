@@ -1,0 +1,28 @@
+{
+  "name": "andy-solo-project",
+  "version": "1.0.0",
+  "description": "This is Andy's solo-project",
+  "main": "./server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "build": "webpack --watch",
+    "webpack": "webpack",
+    "start:dev": "webpack-dev-server"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "add": "^2.0.6",
+    "css-loader": "^2.1.0",
+    "style-loader": "^0.23.1"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^7.9.0"
+  }
+}

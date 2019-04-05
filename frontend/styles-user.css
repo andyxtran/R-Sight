@@ -1,0 +1,18 @@
+#app {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 5em;
+}
+
+#photo {
+    text-align: center;
+}
+
+#photo img {
+    height: 20em;
+}
+
+#list {
+    text-align: center;
+
+}
