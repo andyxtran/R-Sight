@@ -1,13 +1,14 @@
-# R-Sight
-
 <h1 align="center">
   <br>
-    <img src="https://docs.microsoft.com/en-us/visualstudio/azure/cognitive-services-connected-services?view=vs-2019" alt="logo" width="400">
+    R-Sight
   <br>
   <br>
-   Open-Source web application for Microsoft Azure's Face Recognition API!
+    <img src="https://github.com/andyxtran/R-Sight/blob/master/frontend/images/rsightlogo.png" alt="logo" width="200">
   <br>
 </h1>
+<h3 align="center">
+   Open-Source web application for Microsoft Azure's Face Recognition API!
+</h3>
 
 ### Prerequisites
 
