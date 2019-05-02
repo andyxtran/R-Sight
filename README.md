@@ -1,6 +1,13 @@
 # R-Sight
 
-Microsoft Azure's Face Recognition API setup!
+<h1 align="center">
+  <br>
+    <img src="https://docs.microsoft.com/en-us/visualstudio/azure/cognitive-services-connected-services?view=vs-2019" alt="logo" width="400">
+  <br>
+  <br>
+   Open-Source web application for Microsoft Azure's Face Recognition API!
+  <br>
+</h1>
 
 ### Prerequisites
 
